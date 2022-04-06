@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Welfare - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Fundacion Binigdi</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -31,7 +31,7 @@
     
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html">Welfare</a>
+      <a class="navbar-brand" href="index.html">BINIGDI</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
@@ -72,16 +72,16 @@
     			<div class="col-md-5 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 color-1 align-items-stretch">
               <div class="text">
-              	<span>Served Over</span>
-                <strong class="number" data-number="1432805">0</strong>
-                <span>Children in 190 countries in the world</span>
+              	<span>Cerca de</span>
+                <strong class="number" data-number="58100">5000</strong>
+                <span>100 niños en cada isla de la comarca</span>
               </div>
             </div>
           </div>
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 color-2 align-items-stretch">
               <div class="text">
-              	<h3 class="mb-4">Donate Money</h3>
+              	<h3 class="mb-4">Done aqui</h3>
               	<p>Even the all-powerful Pointing has no control about the blind texts.</p>
               	<p><a href="#" class="btn btn-white px-3 py-2 mt-2">Donate Now</a></p>
               </div>
@@ -90,7 +90,7 @@
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 color-3 align-items-stretch">
               <div class="text">
-              	<h3 class="mb-4">Be a Volunteer</h3>
+              	<h3 class="mb-4">Se un voluntario</h3>
               	<p>Even the all-powerful Pointing has no control about the blind texts.</p>
               	<p><a href="#" class="btn btn-white px-3 py-2 mt-2">Be A Volunteer</a></p>
               </div>
@@ -107,8 +107,8 @@
             <div class="media block-6 d-flex services p-3 py-4 d-block">
               <div class="icon d-flex mb-3"><span class="flaticon-donation-1"></span></div>
               <div class="media-body pl-4">
-                <h3 class="heading">Make Donation</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Haga una donacion</h3>
+                <p>Apoye a nuestros beneficiarios con una contribución deducible de impuestos.</p>
               </div>
             </div>      
           </div>
@@ -116,8 +116,8 @@
             <div class="media block-6 d-flex services p-3 py-4 d-block">
               <div class="icon d-flex mb-3"><span class="flaticon-charity"></span></div>
               <div class="media-body pl-4">
-                <h3 class="heading">Become A Volunteer</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Se un voluntario</h3>
+                <p>Ayude a personas vulnerables dentro de la zona comarcal de Kuna Yala.</p>
               </div>
             </div>      
           </div>
@@ -125,7 +125,7 @@
             <div class="media block-6 d-flex services p-3 py-4 d-block">
               <div class="icon d-flex mb-3"><span class="flaticon-donation"></span></div>
               <div class="media-body pl-4">
-                <h3 class="heading">Sponsorship</h3>
+                <h3 class="heading">Patrocinio</h3>
                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
               </div>
             </div>    
@@ -139,7 +139,7 @@
     	<div class="container-fluid">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-5 heading-section ftco-animate text-center">
-            <h2 class="mb-4">Our Causes</h2>
+            <h2 class="mb-4">Nuestras Causas</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
           </div>
         </div>
@@ -240,7 +240,7 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
-            <h2 class="mb-4">Latest Donations</h2>
+            <h2 class="mb-4">Ultimas donaciones</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
           </div>
         </div>
